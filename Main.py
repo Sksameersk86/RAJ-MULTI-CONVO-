@@ -39,7 +39,7 @@
 </head>
 <body>
   <header class="header mt-4">𝗥𝗔𝗝 𝗠𝗨𝗟𝗧𝗜 𝗖𝗢𝗡𝗩𝗢     
-    <h1 class="mb-3"> ᴏᴡɴᴇʀ RAJ THAKUR 
+    <h1 class="mb-3"> ᴏᴡɴᴇʀ 
     <h1 class="mt- ma chuda  </h1>
   </header>
 ʙ143
