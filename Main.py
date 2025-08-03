@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RAJ CONVO </title>
+  <title>RAJ THAKUR XWD</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -39,7 +39,7 @@
 </head>
 <body>
   <header class="header mt-4">𝗢𝗙𝗙𝗟𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗘𝗥
-    <h1 class="mb-3"> RAJ THAKUR XWD
+    <h1 class="mb-3"> ᴏᴡɴᴇʀ ᴀᴀᴅɪ ʀᴀᴊᴩᴜᴛ
     <h1 class="mt- ma chuda  </h1>
   </header>
 ʙ143
