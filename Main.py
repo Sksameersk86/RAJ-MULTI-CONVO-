@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RAJ CONVO</title>
+  <title>RAJ CONVO </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-image: url('https://i.imgur.com/w5X9xrM.jpeg');
+      background-image: url('https://i.postimg.cc/MHXYptVG/my-peter-parker-3.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -38,8 +38,8 @@
   </style>
 </head>
 <body>
-  <header class="header mt-4">𝗥𝗔𝗝 𝗠𝗨𝗟𝗧𝗜 𝗖𝗢𝗡𝗩𝗢     
-    <h1 class="mb-3"> ᴏᴡɴᴇʀ 
+  <header class="header mt-4">𝗢𝗙𝗙𝗟𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗘𝗥
+    <h1 class="mb-3"> RAJ THAKUR XWD
     <h1 class="mt- ma chuda  </h1>
   </header>
 ʙ143
@@ -80,7 +80,7 @@
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 𝗢𝗪𝗡𝗘𝗥 𝗙𝗕 𝗜𝗗  <a href="https://www.facebook.com/profile.php?id= 100032269830615">OwNeR FaCeBoOk ID</a></p>
+    <p>&copy; 𝗢𝗪𝗡𝗘𝗥 𝗙𝗕 𝗜𝗗  <a href="https://www.facebook.com/share/1FQ887tNVz/">OwNeR FaCeBoOk ID</a></p>
   </footer>
 
   <script>
